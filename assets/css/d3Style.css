@@ -28,6 +28,7 @@
   font-family: sans-serif;
   fill: #fff;
   text-anchor: middle;
+  font-size: 12px;
 }
 
 .stateCircle {
@@ -41,6 +42,7 @@
 }
 
 .d3-tip {
+  position: absolute;
   padding: 6px;
   font-size: 12px;
   line-height: 1;
